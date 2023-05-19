@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jamal West
-- 👀 I’m interested in JavaScript, TypeScript, and NodeJS, Data Visualization.
-- 🌱 I’m currently learning Angular 11+, Golang, and Springboot.
+- 👀 I’m interested in JavaScript, TypeScript, NodeJS, and  Data Visualization.
+- 🌱 I’m currently learning Angular 13+, React, and Python.
 - 💞️ I’m looking to collaborate on UI/UX, Angular/React, and Data Visualization projects.
 - 📫 How to reach me: thejamalwest@gmail.com.
 <!---
